@@ -4,7 +4,7 @@ Lorenz attractor
 Lorenz attractor is beautiful.
 <br>
 <a href="https://ytro10.github.io/lorenz-attractor">
-<img src="http://imgur.com/j4baB6b"/>
+<img src="https://github.com/ytro10/lorenz_attractor/blob/images/lorenz_attractor.gif"/>
 </a>
 
 ## Demo

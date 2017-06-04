@@ -23,8 +23,8 @@ https://processing.org/download/
 ## run
 
 ### Web version( N = 10000 )
-`python3 server.py `
-access localhost:8000/dist
+`python3 -m htttp.server 8000`
+access <a href='localhost:8000'>localhost:8000</a>
 
 ### Processing version( N = 100000, 300000 )
 Run lorenz_attractor.pde on Processing.

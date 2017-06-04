@@ -3,13 +3,14 @@ Lorenz attractor
 
 Lorenz attractor is beautiful.
 <br>
-<a href="https://ytro10.github.io/lorenz-attractor">
+<a href="
+https://ytro10.github.io/lorenz_attractor/
+">
 <img src="https://github.com/ytro10/lorenz_attractor/blob/images/lorenz_attractor.gif"/>
 </a>
 
 ## Demo
-
-https://ytro10.github.io/lorenz-attractor
+https://ytro10.github.io/lorenz_attractor/
 
 ## Requirement
 
@@ -24,6 +25,7 @@ https://processing.org/download/
 
 ### Web version( N = 10000 )
 `python3 -m htttp.server 8000`
+<br>
 access <a href='localhost:8000'>localhost:8000</a>
 
 ### Processing version( N = 100000, 300000 )

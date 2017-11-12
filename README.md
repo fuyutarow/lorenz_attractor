@@ -4,13 +4,13 @@ Lorenz attractor
 Lorenz attractor is beautiful.
 <br>
 <a href="
-https://ytro10.github.io/lorenz_attractor/
+https://fytroo.github.io/lorenz_attractor/
 ">
-<img src="https://github.com/ytro10/lorenz_attractor/blob/images/lorenz_attractor.gif"/>
+<img src="https://github.com/fytroo/lorenz_attractor/blob/images/lorenz_attractor.gif"/>
 </a>
 
 ## Demo
-https://ytro10.github.io/lorenz_attractor/
+https://fytroo.github.io/lorenz_attractor/
 
 ## Requirement
 

@@ -20,7 +20,7 @@ double[] orbitY = new double[N];
 double[] orbitZ = new double[N];
 
 void setup() {
-  size(1920, 1080, P3D);
+  size(1600, 900, P3D);
   frameRate(60);
   colorMode(HSB, COLOR_SCALE, 100, 100);
   background(0);
@@ -40,9 +40,9 @@ void draw() {
   text(("bata==\t"+bata), 100, 180);
   text(("N==\t"+N), 100, 220);
 
-  text(("x==\t"+(float)orbitX[frameCount*SPEED%(int)(N/LOOP_PER_POINT)]), width-150, 100);
-  text(("y==\t"+(float)orbitY[frameCount*SPEED%(int)(N/LOOP_PER_POINT)]), width-150, 140);
-  text(("z==\t"+(float)orbitZ[frameCount*SPEED%(int)(N/LOOP_PER_POINT)]), width-150, 180);
+  text(("x==\t"+(float)orbitX[frameCount*SPEED%(int)(N/LOOP_PER_POINT)]), width-250, 100);
+  text(("y==\t"+(float)orbitY[frameCount*SPEED%(int)(N/LOOP_PER_POINT)]), width-250, 140);
+  text(("z==\t"+(float)orbitZ[frameCount*SPEED%(int)(N/LOOP_PER_POINT)]), width-250, 180);
 
   // handle
   translate(width/2, height/2);
